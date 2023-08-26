@@ -1,0 +1,4 @@
+Steps to run:
+1. Open cmd in this path
+2. conda activate open-mmlab
+3. streamlit run home.py

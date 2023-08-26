@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>14.jpg</filename>
+	<path>C:\Users\Vishakha\Desktop\Flutura Internship\Project\data\Images\14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5616</width>
+		<height>3744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3066</xmin>
+			<ymin>2036</ymin>
+			<xmax>3422</xmax>
+			<ymax>3328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3422</xmin>
+			<ymin>2040</ymin>
+			<xmax>3894</xmax>
+			<ymax>3368</ymax>
+		</bndbox>
+	</object>
+</annotation>
